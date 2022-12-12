@@ -7,9 +7,10 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
      
 Beymen
 ----------------
-* Navigation izni Only this time yapılır
+* Navigation izni Allow yapılır
 * Aşağıdaki arama kısmına tıklanılır
-* Üst tarafta bulunan arama çubuğuna pantalon yazılır ve enter yapılır
+* Üst tarafta bulunan arama çubuğuna pantalon yazılır
+* Enter'a tıklanır
 * Filtrele butonuna basılır
 * Ürün çeşidine tıklanılır
 * Jean Pantalon seçilir
@@ -17,3 +18,4 @@ Beymen
 * Bir ürün seçilir
 * Sepete ekle butonunun 'Sepete Ekle' text'ini içerdiği kontrol edilir
 * Favoriye tıklanılır
+* Kullanıcı girişi ekranının geldiği Kontrol edilir

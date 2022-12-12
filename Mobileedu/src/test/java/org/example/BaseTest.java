@@ -24,7 +24,7 @@ public class BaseTest {
             System.out.println("==============Test Basliyor==============");
             DesiredCapabilities desiredCapabilities = new DesiredCapabilities();
             desiredCapabilities.setCapability(MobileCapabilityType.PLATFORM_NAME, MobilePlatform.ANDROID);
-            desiredCapabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "Nexus 6 API 27");
+            desiredCapabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "Pixel 6 API 27");
             desiredCapabilities.setCapability(AndroidMobileCapabilityType.APP_ACTIVITY, "com.mobisoft.beymen.activity.SplashActivity");
             desiredCapabilities.setCapability(AndroidMobileCapabilityType.APP_PACKAGE, "com.mobisoft.beymen");
             desiredCapabilities.setCapability(MobileCapabilityType.NEW_COMMAND_TIMEOUT, 3000);
